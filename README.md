@@ -1,1 +1,1 @@
-# plugin.video.aresiptv-1.9.8
+# plugin.video.aresiptv-1.9.6
